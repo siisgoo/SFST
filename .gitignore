@@ -6,6 +6,7 @@ vgcore.*
 *.db
 
 build/
+build/*
 CMakeLists.txt.user
 CMakeCache.txt
 CMakeFiles
