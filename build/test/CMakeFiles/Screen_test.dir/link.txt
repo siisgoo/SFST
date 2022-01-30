@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/Screen_test.dir/Screen.cpp.o -o Screen_test  -Wl,-rpath,/home/xewii/projects/misc/sfst/build ../lib-sfst.so. ../lib/libgtest_main.a /usr/lib/libsfml-graphics.so.2.5.1 /usr/lib/libsfml-window.so.2.5.1 /usr/lib/libsfml-audio.so.2.5.1 /usr/lib/libsfml-system.so.2.5.1 ../lib/libgtest.a -lpthread 
