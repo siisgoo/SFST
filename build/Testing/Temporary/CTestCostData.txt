@@ -1,0 +1,18 @@
+Matrix.Initialization 45 0.000252897
+Matrix.Assign 45 0.000223932
+Matrix.Logic 45 0.000159007
+Matrix.Math 45 0.00021091
+Matrix4x4.Initialization 45 0.000225249
+Matrix4x4.Assign 45 0.000268535
+Matrix4x4.Logic 45 0.00026591
+Matrix4x4.Math 35 0.000240838
+Matrix4x4.TRS 21 0.000602999
+Vector.Initialization 45 0.000260754
+Vector.Assign 45 0.000144856
+Vector.Operations 41 0.000332314
+Vector.Math 42 0.000253893
+TRS.Initialization 1 0.0128018
+TRS.Apply 15 0.000723299
+Coubes.Rotation 1 0
+---
+Coubes.Rotation

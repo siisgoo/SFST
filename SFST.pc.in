@@ -1,0 +1,12 @@
+prefix=@/usr/local/lib@
+exec_prefix=@CMAKE_INSTALL_PREFIX@
+libdir=${exec_prefix}/@CMAKE_INSTALL_LIBDIR@
+includedir=${prefix}/@CMAKE_INSTALL_INCLUDEDIR@
+
+Name: sfaf
+Description: SFML Fast Action Framework
+Version: @PROJECT_VERSION@
+
+Requires:
+Libs: -L${libdir} -lsfaf
+Cflags: -I${includedir}

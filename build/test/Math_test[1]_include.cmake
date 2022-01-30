@@ -1,0 +1,5 @@
+if(EXISTS "/home/xewii/projects/misc/sfst/build/test/Math_test[1]_tests.cmake")
+  include("/home/xewii/projects/misc/sfst/build/test/Math_test[1]_tests.cmake")
+else()
+  add_test(Math_test_NOT_BUILT Math_test_NOT_BUILT)
+endif()

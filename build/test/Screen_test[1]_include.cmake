@@ -1,0 +1,5 @@
+if(EXISTS "/home/xewii/projects/misc/sfst/build/test/Screen_test[1]_tests.cmake")
+  include("/home/xewii/projects/misc/sfst/build/test/Screen_test[1]_tests.cmake")
+else()
+  add_test(Screen_test_NOT_BUILT Screen_test_NOT_BUILT)
+endif()
